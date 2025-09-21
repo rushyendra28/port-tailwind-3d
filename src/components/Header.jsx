@@ -50,7 +50,7 @@ const Header = () => {
   )
 }
 
-export default Header
+export default Header 
 
 
 /*23:02*/
